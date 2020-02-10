@@ -22,7 +22,7 @@ class Sidebar extends Component {
           <div className="text-center">
             <div
               className="author-img"
-            //   style={{ backgroundImage: "url(images/about.jpg)" }}
+              style={{ backgroundImage: "url(images/face.jpg)" }}
             />
             <h1 id="colorlib-logo">
               <a href="index.html">Thien Ho</a>
@@ -74,33 +74,15 @@ class Sidebar extends Component {
                     Blog
                   </a>
                 </li> */}
-                <li>
+                {/* <li>
                   <a href="#" data-nav-section="contact">
                     Contact
                   </a>
-                </li>
+                </li> */}
               </ul>
             </div>
           </nav>
           <div className="colorlib-footer">
-            <p>
-              <small>
-                ©{" "}
-                {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
-                Copyright ©2020 All rights reserved | This template is made with{" "}
-                <i className="icon-heart" aria-hidden="true" /> by{" "}
-                <a href="https://colorlib.com" target="_blank">
-                  Colorlib
-                </a>
-                {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}{" "}
-                <span>
-                  Demo Images:{" "}
-                  <a href="https://unsplash.com/" target="_blank">
-                    Unsplash.com
-                  </a>
-                </span>
-              </small>
-            </p>
             <ul>
               <li>
                 <a href="#">

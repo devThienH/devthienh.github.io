@@ -78,7 +78,7 @@ class About extends Component {
                     className="col-md-12 animate-box"
                     data-animate-effect="fadeInLeft"
                   >
-                    <div className="hire">
+                    {/* <div className="hire">
                       <h2>
                         There will be more projects to come <br />
                         but here are the projects I have currently!
@@ -86,7 +86,7 @@ class About extends Component {
                       <a href="#" className="btn-hire">
                         Hire me
                       </a>
-                    </div>
+                    </div> */}
                   </div>
                 </div>
               </div>

@@ -23,7 +23,7 @@ class About extends Component {
                         stack developer I do my best to polish up on my code and
                         trying to learn new things.
                       </p>
-                      <p>Here are some of the programming languages I know!</p>
+                      <p>Here are my current skills.</p>
                     </div>
                   </div>
                 </div>
@@ -36,7 +36,27 @@ class About extends Component {
                       <span className="icon2">
                         <i className="icon-bulb" />
                       </span>
-                      <h3>Full Stack Development</h3>
+                      <h3>Front-End</h3>
+                      <ul>
+                        <li>
+                          HTML
+                        </li>
+                        <li>
+                          CSS
+                        </li>
+                        <li>
+                          JavaScript
+                        </li>
+                        <li>
+                          React.JS
+                        </li>
+                        <li>
+                          jQuery
+                        </li>
+                        <li>
+                          AJAX
+                        </li>
+                        </ul>
                     </div>
                   </div>
                   <div
@@ -47,7 +67,13 @@ class About extends Component {
                       <span className="icon2">
                         <i className="icon-globe-outline" />
                       </span>
-                      <h3>Web Design</h3>
+                      <h3>Middle-Tier</h3>
+                      <ul>
+                        <li>C#</li>
+                        <li>ASP.Net</li>
+                        <li>.Net Core</li>
+                        <li>ADO</li>
+                      </ul>
                     </div>
                   </div>
                   <div
@@ -58,7 +84,11 @@ class About extends Component {
                       <span className="icon2">
                         <i className="icon-data" />
                       </span>
-                      <h3>Software</h3>
+                      <h3>Back-End</h3>
+                      <ul>
+                        <li>T-SQL</li>
+                        <li>SQL Server</li>
+                      </ul>
                     </div>
                   </div>
                   <div
@@ -69,7 +99,15 @@ class About extends Component {
                       <span className="icon2">
                         <i className="icon-phone3" />
                       </span>
-                      <h3>Back-End</h3>
+                      <h3>Others/Tools</h3>
+                      <ul>
+                        <li>Visual Studio 2019</li>
+                        <li>Visual Studio Code</li>
+                        <li>Chrome Dev Tools</li>
+                        <li>TFS/Git</li>
+                        <li>Trello</li>
+                        <li>Slack</li>
+                      </ul>
                     </div>
                   </div>
                 </div>

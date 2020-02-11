@@ -1,8 +1,9 @@
 import React, { Component } from 'react';
 import './App.css';
-import Sidebar from "./components/sidebar"
-import Introduction from "./components/introduction"
-import About from "./components/about"
+import Sidebar from "./components/sidebar";
+import Introduction from "./components/introduction";
+import About from "./components/about";
+import Contact from "./components/contact";
 
 
 class App extends Component {
@@ -14,6 +15,7 @@ class App extends Component {
           <div id="colorlib-main">
             <Introduction></Introduction>
             <About></About>
+            <Contact></Contact>
           </div>
         </div>
       </div>

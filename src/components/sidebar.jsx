@@ -28,7 +28,7 @@ class Sidebar extends Component {
               <a href="index.html">Thien Ho</a>
             </h1>
             <span className="position">
-              <a href="#">Software Engineer</a> in California
+              <a href="#softwareengineer">Software Engineer</a> in California
             </span>
           </div>
           <nav id="colorlib-main-menu" role="navigation" className="navbar">
@@ -74,16 +74,16 @@ class Sidebar extends Component {
                     Blog
                   </a>
                 </li> */}
-                {/* <li>
-                  <a href="#" data-nav-section="contact">
+                <li>
+                  <a href="#contact" data-nav-section="contact">
                     Contact
                   </a>
-                </li> */}
+                </li>
               </ul>
             </div>
           </nav>
           <div className="colorlib-footer">
-            <ul>
+            {/* <ul>
               <li>
                 <a href="#">
                   <i className="icon-facebook2" />
@@ -104,7 +104,7 @@ class Sidebar extends Component {
                   <i className="icon-linkedin2" />
                 </a>
               </li>
-            </ul>
+            </ul> */}
           </div>
         </aside>
       </div>

@@ -13,7 +13,7 @@ class About extends Component {
                   data-animate-effect="fadeInLeft"
                 >
                   <div className="col-md-12">
-                    <div className="about-desc" id="about"><a href="about"></a>
+                    <div className="about-desc" id="about">
                       <span className="heading-meta" >About Me</span>
                       <h2 className="colorlib-heading">Who Am I?</h2>
                       <p>

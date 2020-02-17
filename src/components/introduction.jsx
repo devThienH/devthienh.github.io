@@ -25,7 +25,7 @@ class Introduction extends Component {
                           </h1>
                           <p>
                             <a className="btn btn-primary btn-learn"
-                                href={Pdf} rel="noopener">
+                                href={Pdf} rel="noopener noreferrer">
                               Download Pdf <i className="icon-download4" />
                             </a>
                           </p>
